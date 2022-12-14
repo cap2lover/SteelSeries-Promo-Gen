@@ -7,7 +7,10 @@ ass gen webdriver is used to make 10 promo codees like 10minutes but if you are 
 # HOW TO RUN
 
 1.Download Python
+
 2.Install all modules
+
 3.Run main.py
+
 4.Enjoy 🎇
 
